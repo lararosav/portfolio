@@ -1,0 +1,110 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    margin: 0;
+    padding: 0;    
+    list-style: none;
+}
+
+li{
+    float: left;
+}
+
+a{
+    padding: 20px;
+    width: 100px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: uppercase;
+    font-weight: bold;
+    background-color: brown;
+}
+
+#section1 {
+    height: 700px;
+    display: inline-block;
+    width: 100%;
+    background: url(Foto\ Home.JPG);
+    background-size: cover;
+}
+
+#section2 {
+    height: 100px;
+    display: inline-block;
+    width: 100%;
+}
+
+#section3 {
+    height: 700px;
+    background: yellow;
+    display: inline-block;
+    width: 100%;
+}
+
+#section4 {
+    height: 700px;
+    background: blue;
+    display: inline-block;
+    width: 100%;
+}
+
+#section5 {
+    height: 700px;
+    background: purple;
+    display: inline-block;
+    width: 100%;
+}
+
+h1 {
+    margin: 100px;
+    text-align: center;
+    padding: 0;
+}
+#section6 {
+    height: 200px;
+    background: rgb(255, 0, 0);
+    display: inline-block;
+    width: 100%;
+}
+h5 {
+    margin: 100px;
+    text-align: center;
+    padding: 0;
+}
+.oi {
+    background-color: brown;
+}
+
+.logo {
+    height: 70px;
+    width: 100px;
+}
+
+.nome {
+    font-size: 50px; 
+    float: left;
+    margin: 30px;
+}
+
+.ft1 {
+    height: 500px;
+    width: 100%;
+}
+.text-start {
+    text-align: center;
+    font-size: medium;
+}
+.cool {
+    text-align: center;
+    font-size: 70px;
+}
+
