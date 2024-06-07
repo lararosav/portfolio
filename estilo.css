@@ -51,6 +51,7 @@ a {
 
 .lr1 {
     width: 500px;
+    /* left: 40%; */
 }
 
 .texto {
@@ -91,3 +92,4 @@ a {
 .insta {
     width: 150px;
 }
+
